@@ -1,0 +1,57 @@
+# =========================
+# Dependencias de Node.js
+# =========================
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+package-lock.json
+
+# =========================
+# Archivos de Entorno
+# =========================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# =========================
+# Sistema Operativo
+# =========================
+Thumbs.db
+Desktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# =========================
+# Editores de Código e IDEs
+# =========================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# =========================
+# Java / Entornos Compilados
+# =========================
+*.class
+target/
+build/
+*.jar
+*.war
+*.ear
+
+# =========================
+# Logs Generales
+# =========================
+*.log
+logs
+pids
+*.pid
+*.seed
+*.pid.lock
